@@ -24,7 +24,7 @@ spec:
                     name: vinod-solo-microservice
                     ports:
                         -   name: web
-                            containerPort: 8080
+                            containerPort: 8081
 ---
 
 kind: Service
